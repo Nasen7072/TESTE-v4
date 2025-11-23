@@ -58,7 +58,7 @@ const productions = [
         id: 7,
         title: "Análise de Charges Políticas",
         description: "Estudo sobre o uso do humor e da ironia em charges políticas como forma de crítica social.",
-        image: "https://images.unsplash.com/photo-1629196914375-9ceb6c12bcb3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80",
+        image: "https://bertille.weebly.com/uploads/2/6/5/3/26539471/1895323_orig.jpeg",
         content: "<p>Esta produção analisou o uso do humor e da ironia em charges políticas como forma de crítica social. Examinei diferentes exemplos de charges publicadas em veículos de comunicação, identificando os recursos visuais e textuais utilizados para transmitir mensagens críticas.</p><p>O trabalho destacou como a charge, enquanto gênero multimodal, combina elementos verbais e não verbais para construir sentidos e promover reflexão sobre questões políticas e sociais.</p>",
         pages: 2,
         words: 1100
