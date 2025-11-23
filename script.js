@@ -22,7 +22,7 @@ const productions = [
         id: 3,
         title: "Resenha Crítica de Filme",
         description: "Análise crítica do filme 'Central do Brasil', explorando seus aspectos sociais e cinematográficos.",
-        image: "https://cdn0.umcomo.com.br/pt/posts/8/3/6/como_fazer_uma_resenha_critica_de_um_filme_29638_orig.jpg",
+        image: "https://infinitasvidas.wordpress.com/wp-content/uploads/2024/07/poster-divertidamente-2.png",
         content: "<p>Esta resenha crítica analisou o filme 'Central do Brasil', dirigido por Walter Salles. O trabalho explorou tanto os aspectos cinematográficos quanto as questões sociais retratadas na obra.</p><p>A resenha destacou a representação do Brasil profundo, a jornada dos personagens e como o filme utiliza elementos visuais e narrativos para construir sua mensagem.</p>",
         pages: 2,
         words: 1000
